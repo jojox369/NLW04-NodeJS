@@ -1,0 +1,15 @@
+Testes Automatizados
+
+
+1 - Testes unitários: 
+testam determinadas funcionalidades da nossa aplicação, como por exemplo uma função específica. 
+Utilizado geralmente no TDD, que e o codigo orientado a testes.
+Os testes unitarios não acessam o banco de dados ou api externa.
+
+2 - Testes de integração:
+Testa a funcionalidade completa da aplicação. Testa todo o fluxo da aplicação.
+
+3 - Ponta a Ponta (E2E):
+Testa toda a ação de um usuario a na aplicação. Mais utilizado no front-end;
+
+Em uma aplicação back-end, se preocupa apenas com os testes unitarios e de integração;
